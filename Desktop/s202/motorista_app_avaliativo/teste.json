@@ -1,0 +1,26 @@
+{
+    "motorista": {
+      "nota": 4,
+      "corridas": [
+        {
+          "nota": 5,
+          "distancia": 10.5,
+          "valor": 25.75,
+          "passageiro": {
+            "nome": "Alice",
+            "documento": "123456789"
+          }
+        },
+        {
+          "nota": 4,
+          "distancia": 8.2,
+          "valor": 20.0,
+          "passageiro": {
+            "nome": "Bob",
+            "documento": "987654321"
+          }
+        }
+      ]
+    }
+  }
+  
